@@ -1,0 +1,14 @@
+{
+            "type": "FeatureCollection",
+            "features": [
+            { "type": "Feature", "properties": { "Name": "Over head Tank" }, "geometry": { "type": "Point", "coordinates": [ 72.7912363, 23.1626958, 0.0 ] } }, 
+            { "type": "Feature", "properties": { "Name": "Rain water tank" }, "geometry": { "type": "Point", "coordinates": [ 72.7911716, 23.1627140, 0.0 ] } }, 
+            { "type": "Feature", "properties": { "Name": "Pump" }, "geometry": { "type": "Point", "coordinates": [ 72.7912336, 23.1627303, 0.0 ] } }, 
+            { "type": "Feature", "properties": { "Name": "M Valve 1" }, "geometry": { "type": "Point", "coordinates": [ 72.7912273, 23.162761, 0.0 ] } }, 
+            { "type": "Feature", "properties": { "Name": "M Valve 2" }, "geometry": { "type": "Point", "coordinates": [ 72.7931755, 23.1629372, 0.0 ] } }, 
+            { "type": "Feature", "properties": { "Name": "M Valve 3" }, "geometry": { "type": "Point", "coordinates": [ 72.7925932, 23.1647712, 0.0 ] } }, 
+
+            { "type": "Feature", "properties": { "Name": "M Valve 4" }, "geometry": { "type": "Point", "coordinates": [ 72.7915293, 23.1615263, 0.0 ] } }, 
+            { "type": "Feature", "properties": { "Name": "M Valve 5" }, "geometry": { "type": "Point", "coordinates": [ 72.7921985, 23.1582609, 0.0 ] } },    
+  ]
+          };
